@@ -1,3 +1,7 @@
 version: "2"
 domain: ladicle.com
 repo: github.com/Ladicle/monocle
+resources:
+- group: monocle
+  version: v1beta1
+  kind: Component

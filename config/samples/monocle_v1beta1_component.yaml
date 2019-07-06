@@ -1,0 +1,7 @@
+apiVersion: monocle.ladicle.com/v1beta1
+kind: Component
+metadata:
+  name: component-sample
+spec:
+  # Add fields here
+  foo: bar
